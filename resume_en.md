@@ -79,7 +79,7 @@ German: A1
 
 ## **WORK EXPERIENCE**
 ### **Chief Accountant, Finance and Administration Manager**  
-<image src="/pics/NCR.jpg" align="bottom" alt="NCR">  __NCR Corporation [ Dec 2009 – May 2022 ]__
+<image src="/pics/NCR.jpg" alt="NCR" align="bottom">  __NCR Corporation [ Dec 2009 – May 2022 ]__
 
 o	Reporting (statutory, corporate, consolidated)  
 o	Liaising corporate internal, obligatory and tax audit processes  
