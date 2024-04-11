@@ -71,7 +71,7 @@ Registered ID FINM-17-5405902
 <table>
 
 ## **PROJECTS**
-## **Diploma project**: [Autotesting of web application for tour purchase with two ways of payment](https://github.com/audov/diploma-q59-marrakesh-au "Autotesting of web application for tour purchase with two ways of payment")
+### **Diploma project**: [Autotesting of web application for tour purchase with two ways of payment](https://github.com/audov/diploma-q59-marrakesh-au "Autotesting of web application for tour purchase with two ways of payment")
 
 ## **LANGUAGE SKILLS**
 English: EF SET 75/100 (C2 Proficient)  
@@ -79,7 +79,7 @@ German: A1
 
 ## **WORK EXPERIENCE**
 ### **Chief Accountant, Finance and Administration Manager**  
-![NCR](/pics/NCR.jpg)  __NCR Corporation [ Dec 2009 – May 2022 ]__
+<image src="/pics/NCR.jpg" alt="NCR")  __NCR Corporation [ Dec 2009 – May 2022 ]__
 
 o	Reporting (statutory, corporate, consolidated)  
 o	Liaising corporate internal, obligatory and tax audit processes  
