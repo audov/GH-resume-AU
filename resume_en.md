@@ -1,17 +1,18 @@
 
-# **Alena Udovichenko**
+# **ALENA UDOVICHENKO**
 
 ## **OBJECTIVE**
 
-**I am eager to start my career in IT with software testing and develop my test automation skills in a bright, motivating team.**
+#### **I am eager to start my career in IT with software testing and develop my test automation skills in a bright, motivating team.**
+
 
 ## **EDUCATION AND TRAINING**
 
-### **Magister in Enterprise economics**
+#### **Magister in Enterprise economics**
 
 _Modern Humanitarian Academy (Moscow) [1997-2003]_
 
-### **Certified Finance Manager**
+#### **Certified Finance Manager**
 
 ![Netology](/pics/Netology.jpg) _NETOLOGY [ 2024 ]_
 
@@ -19,8 +20,7 @@ Website: https://netology.ru/
 
 Registered ID QA-63-5405902
 
-
-### **Certified QA Engineer**
+#### **Certified QA Engineer**
 
 ![Netology](/pics/Netology.jpg) _NETOLOGY [ 2023 ]_
 
@@ -71,15 +71,16 @@ Registered ID FINM-17-5405902
 <table>
 
 ## **PROJECTS**
-#### **Diploma project**: [АВТОТЕСТИРОВАНИЕ ВЕБ-ПРИЛОЖЕНИЯ ДЛЯ ПОКУПКИ ТУРА ДВУМЯ СПОСОБАМИ ПЛАТЕЖА](https://github.com/audov/diploma-q59-marrakesh-au "АВТОТЕСТИРОВАНИЕ ВЕБ-ПРИЛОЖЕНИЯ ДЛЯ ПОКУПКИ ТУРА ДВУМЯ СПОСОБАМИ ПЛАТЕЖА")
+### **Diploma project**: [АВТОТЕСТИРОВАНИЕ ВЕБ-ПРИЛОЖЕНИЯ ДЛЯ ПОКУПКИ ТУРА ДВУМЯ СПОСОБАМИ ПЛАТЕЖА](https://github.com/audov/diploma-q59-marrakesh-au "АВТОТЕСТИРОВАНИЕ ВЕБ-ПРИЛОЖЕНИЯ ДЛЯ ПОКУПКИ ТУРА ДВУМЯ СПОСОБАМИ ПЛАТЕЖА")
 
 ## **LANGUAGE SKILLS**
 English: EF SET 75/100 (C2 Proficient)
 German: A1
 
 ## **WORK EXPERIENCE**
-#### **Chief Accountant, Finance and Administration Manager**  
-![NCR](/pics/NCR.jpg) __NCR Corporation [ Dec 2009 – May 2022 ]__
+### **Chief Accountant, Finance and Administration Manager**  
+__NCR Corporation [ Dec 2009 – May 2022 ]__
+![NCR](/pics/NCR.jpg)
 
 o	Reporting (statutory, corporate, consolidated)  
 o	Liaising corporate internal, obligatory and tax audit processes  
@@ -90,8 +91,9 @@ o	B-tester in migration to Oracle Cloud software (SIT 3, UAT)
 o	Implementing external e-document workflow via Kontur Diadoc (SOW definition, xls forms creation, communication with development team, progress tests, UAT)  
 o	Raising IT incidents and support in resolving in cooperation with global IT service team (US, India)
 
-#### **Financial Controller**  
-![Eternit](/pics/Eternit.jpg) __Etex Group (Eternit Kaluga) [ Oct 2008 - Dec 2009 ]__
+### **Financial Controller**  
+__Etex Group (Eternit Kaluga) [ Oct 2008 - Dec 2009 ]__
+![Eternit](/pics/Eternit.jpg)
 
 o	Member of Internal Management Board (F&A)  
 o	Financial reporting (IFRS), BW Production user (SAP/R3)  
@@ -99,8 +101,9 @@ o	CAPEX (construction site in Kaluga area) controller
 o	Project manager for SAP/R3 integration (AM, FI, CO, SD, MM, PP, PM), go-live 2009  
 o	Key user for AM, FI, CO modules (release tester, trainer functions)
 
-#### **Senior Accountant, Chief Accountant**  
-![Brenntag](/pics/Brenntag.jpg) __Brenntag Sep [ 2005 - Oct 2008 ]__
+### **Senior Accountant, Chief Accountant**  
+__Brenntag Sep [ 2005 - Oct 2008 ]__
+![Brenntag](/pics/Brenntag.jpg)
 
 o	Statutory reporting (1C)  
 o	Management reporting (SAP/SEM)  
