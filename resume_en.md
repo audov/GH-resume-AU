@@ -79,7 +79,7 @@ German: A1
 
 ## **WORK EXPERIENCE**
 ### **Chief Accountant, Finance and Administration Manager**  
-![NCR](/pics/NCR new.jpg")  __NCR Corporation [ Dec 2009 – May 2022 ]__
+![NCR](/pics/NCR_new.jpg")  __NCR Corporation [ Dec 2009 – May 2022 ]__
 
 o	Reporting (statutory, corporate, consolidated)  
 o	Liaising corporate internal, obligatory and tax audit processes  
@@ -91,7 +91,7 @@ o	Implementing external e-document workflow via Kontur Diadoc (SOW definition, x
 o	Raising IT incidents and support in resolving in cooperation with global IT service team (US, India)
 
 ### **Financial Controller**  
-![Eternit](/pics/Eternit new.jpg)  __Etex Group (Eternit Kaluga) [ Oct 2008 - Dec 2009 ]__
+![Eternit](/pics/Eternit_new.jpg)  __Etex Group (Eternit Kaluga) [ Oct 2008 - Dec 2009 ]__
 
 o	Member of Internal Management Board (F&A)  
 o	Financial reporting (IFRS), BW Production user (SAP/R3)  
@@ -100,7 +100,7 @@ o	Project manager for SAP/R3 integration (AM, FI, CO, SD, MM, PP, PM), go-live 2
 o	Key user for AM, FI, CO modules (release tester, trainer functions)
 
 ### **Senior Accountant, Chief Accountant**  
-![Brenntag](/pics/Brenntag new.jpg)  __Brenntag Sep [ 2005 - Oct 2008 ]__
+![Brenntag](/pics/Brenntag_new.jpg)  __Brenntag Sep [ 2005 - Oct 2008 ]__
 
 o	Statutory reporting (1C)  
 o	Management reporting (SAP/SEM)  
